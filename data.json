@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "Wbbns",
+        "image": "../assets/img1.jpg",
+        "warpcastLink": "https://warpcast.com/wbbns"
+      },
+    {
+        "id": 2,
+        "name": "Statuette",
+        "image": "../assets/img1.jpg",
+        "warpcastLink": "https://warpcast.com/statuette"
+      },
+    {
+        "id": 3,
+        "name": "Kabir",
+        "image": "../assets/img1.jpg",
+        "warpcastLink": "https://warpcast.com/kabir"
+      },
+    {
+        "id": 4,
+        "name": "Samuya Saxena",
+        "image": "../assets/img1.jpg",
+        "warpcastLink": "https://warpcast.com/saxenasaheb"
+      },
+    {
+        "id": 5,
+        "name": "Toady Hawk",
+        "image": "../assets/img1.jpg",
+        "warpcastLink": "https://warpcast.com/toadyhawk.eth"
+      },
+    {
+        "id": 6,
+        "name": "Kokocodes",
+        "image": "../assets/img1.jpg",
+        "warpcastLink": "https://warpcast.com/kokocodes"
+      },
+    {
+        "id": 7,
+        "name": "IamCharis",
+        "image": "../assets/img1.jpg",
+        "warpcastLink": "https://warpcast.com/iamcharis"
+      },
+    {
+        "id": 8,
+        "name": "Dami",
+        "image": "../assets/img1.jpg",
+        "warpcastLink": "https://warpcast.com/sir-damilare"
+      },
+    {
+        "id": 9,
+        "name": "Naomi",
+        "image": "../assets/img1.jpg",
+        "warpcastLink": "https://warpcast.com/afrochicks"
+      },
+    {
+        "id": 10,
+        "name": "Tony",
+        "image": "../assets/img1.jpg",
+        "warpcastLink": "https://warpcast.com/to"
+      },
+    {
+        "id": 11,
+        "name": "Patty",
+        "image": "../assets/img1.jpg",
+        "warpcastLink": "https://warpcast.com/patty"
+      },
+    {
+        "id": 12,
+        "name": "Yele",
+        "image": "../assets/img1.jpg",
+        "warpcastLink": "https://warpcast.com/yele.eth"
+      },
+    {
+        "id": 13,
+        "name": "Bernard01",
+        "image": "../assets/img1.jpg",
+        "warpcastLink": "https://warpcast.com/bernard0"
+      }
+]
