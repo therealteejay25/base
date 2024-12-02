@@ -36,31 +36,31 @@ export default function Home() {
     {
       id: 3,
       name: "Kabir",
-      image: img3,
+      image: img4,
       warpcastLink: "https://warpcast.com/kabir",
     },
     {
       id: 4,
       name: "Samuya Saxena",
-      image: img4,
+      image: img3,
       warpcastLink: "https://warpcast.com/saxenasaheb",
     },
     {
       id: 5,
       name: "Toady Hawk",
-      image: img5,
+      image: img6,
       warpcastLink: "https://warpcast.com/toadyhawk.eth",
     },
     {
       id: 6,
       name: "Kokocodes",
-      image: img6,
+      image: img9,
       warpcastLink: "https://warpcast.com/kokocodes",
     },
     {
       id: 7,
       name: "IamCharis",
-      image: img7,
+      image: img5,
       warpcastLink: "https://warpcast.com/iamcharis",
     },
     {
@@ -72,13 +72,13 @@ export default function Home() {
     {
       id: 9,
       name: "Naomi",
-      image: img9,
+      image: img10,
       warpcastLink: "https://warpcast.com/afrochicks",
     },
     {
       id: 10,
       name: "Tony",
-      image: img10,
+      image: img7,
       warpcastLink: "https://warpcast.com/to",
     },
     {
@@ -90,13 +90,13 @@ export default function Home() {
     {
       id: 12,
       name: "Yele",
-      image: img12,
+      image: img13,
       warpcastLink: "https://warpcast.com/yele.eth",
     },
     {
       id: 13,
       name: "Bernard01",
-      image: img13,
+      image: img12,
       warpcastLink: "https://warpcast.com/bernard0",
     },
   ];
