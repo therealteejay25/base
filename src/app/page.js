@@ -162,17 +162,11 @@ export default function Home() {
               </Link>
             </div>
             <div className="lg:w-[40rem]">
-              <h2 className="text-light font-semibold text-2xl text-center">
+              <h2 className="text-light font-semibold text-2xl text-center lg:text-left">
                 Jesse
               </h2>
               <p className="text-light">
-                Jesse is the CEO and founder of Coinbase and the driving force
-                behind the creation of Base, Coinbase Layer 2 blockchain
-                solution. Base is designed to make decentralized app development
-                more accessible and scalable, with lower transaction costs.
-                Armstrong’s leadership in the blockchain industry focuses on
-                fostering innovation and building an open financial system to
-                empower economic freedom globally.
+                Jesse is the founder of Base and he is considered as the 001 of the Base Ecosystem. To us at the base wall of fame: He is the originator. 
               </p>
               
             </div>
@@ -183,7 +177,7 @@ export default function Home() {
       {/* Card Slider Section */}
       <section className="p-8 bg-gray-900 text-light">
         <h1 className="text-center text-3xl font-bold mb-6">
-          Meet the Builders
+          Meet the Inaugural Builders on the wall of fame
         </h1>
         <div>
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-3 gap-8 mx-5 sm:mx-10 lg:mx-20">
