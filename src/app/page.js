@@ -167,7 +167,7 @@ export default function Home() {
               </h2>
               <p className="text-light">
                 Jesse is the CEO and founder of Coinbase and the driving force
-                behind the creation of Base, Coinbase's Layer 2 blockchain
+                behind the creation of Base, Coinbase Layer 2 blockchain
                 solution. Base is designed to make decentralized app development
                 more accessible and scalable, with lower transaction costs.
                 Armstrong’s leadership in the blockchain industry focuses on
